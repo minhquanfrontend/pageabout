@@ -349,11 +349,11 @@
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
   }
   
-  .video-class video {
+  .video-class img {
     width: 100%;
     height: auto;
     max-height: 600px;
-    object-fit: cover;
+    background-size: cover;
     display: block;
   }
   
